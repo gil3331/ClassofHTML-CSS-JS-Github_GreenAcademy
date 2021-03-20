@@ -1,4 +1,4 @@
-#그린컴퓨터아카데미 웹개발(HTML,CSS,Java Script,GitHub) 3/20 ~ 5/2(매주토요일,마지막주는 일요일 포함)
+# 그린컴퓨터아카데미 웹개발(HTML,CSS,Java Script,GitHub) 3/20 ~ 5/2(매주토요일,마지막주는 일요일 포함)
 
 ## GitHub 기초 개념
 
