@@ -3,7 +3,7 @@
 
 ## GitHub 기초 개념
 
->GitHub 용어
+> GitHub 용어
 
 - stage : commit할 대상을 선택
 - commit : 수정한 내용을 저장함
@@ -13,9 +13,8 @@
 - merge : 그런 분할된 브렌치를 합치는 과정
 - pull request : 각 브렌치들이 master에게 자신의 작업이 완료되었음을 표시하여, merge하기 위한 요청
 
-## 참조사이트URL
+> 참고사이트URL
 
->URL 링크
-- 웹 표준학습 사이트 (https://www.w3schools.com/)
-- 무료 온라인 개발 사이트 (https://codepen.io/knyttneve/pen/abBraRB)
-- 마크다운 사용법 사이트 (https://gist.github.com/ihoneymon/652be052a0727ad59601)
+웹 표준학습 사이트 [W3Schools](https://www.w3schools.com/)  
+무료 온라인 개발 사이트 [Codeten](https://codepen.io/knyttneve/pen/abBraRB)  
+마크다운 사용법 사이트 [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
