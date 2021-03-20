@@ -15,8 +15,8 @@
 
 > 참고사이트URL
 
-웹 표준학습 사이트 [W3Schools](https://www.w3schools.com/)<br/>
-무료 온라인 개발 사이트 [Codeten](https://codepen.io/knyttneve/pen/abBraRB)  
-마크다운 사용법 사이트 [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+웹 표준학습 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
+무료 온라인 개발 사이트 : [Codeten](https://codepen.io/knyttneve/pen/abBraRB)  
+마크다운 사용법 사이트 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 <!--개행은 <br/>이나 가장 마지막 라인에 스페이스바로 공백을 2번 주면 가능함-->
 
