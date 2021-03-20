@@ -1,7 +1,3 @@
-# ClassofHTML-CSS-JS-Github_GreenAcademy
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+#프론트 엔드 기초 수업
+
+## GitHub 기초 개념
