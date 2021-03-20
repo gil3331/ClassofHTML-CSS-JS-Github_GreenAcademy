@@ -17,7 +17,8 @@
 
 웹 표준학습 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 무료 온라인 개발 사이트 : [Codeten](https://codepen.io/knyttneve/pen/abBraRB)  
-마크다운 사용법 사이트 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+마크다운 사용법 사이트 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br/>
+생활코딩 사이트 : [생활코딩](https://opentutorials.org/course/1)
 <!--개행은 <br/>이나 가장 마지막 라인에 스페이스바로 공백을 2번 주면 가능함-->
 
 ## WEB/IT 기초 개념
@@ -33,3 +34,10 @@
 클라이언트 서버 모델에서 이루어지는 동작은 클라이언트의 요청(request)과 서버의 응답(response)의 형태로 이루어져 있음
 
 클라이언트는 클라이언트 디바이스에서 실행되는 웹브라우져이고, 서버는 서버 디바이스에서 실행되는 서버 소프트웨어가 실제로 사용되는 것을 의미함
+
+
+## HTML
+
+> HTML Introduction Url : (https://www.w3schools.com/html/html_intro.asp)<br/>
+
+
