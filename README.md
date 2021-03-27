@@ -39,5 +39,77 @@
 ## HTML
 
 > HTML Introduction Url : (https://www.w3schools.com/html/html_intro.asp)<br/>
+> HTML Attributes Url : (https://www.w3schools.com/html/html_attributes.asp)<br/>
+> HTML Elements Url : (https://www.w3schools.com/html/html_elements.asp)<br/>
+
+
+HTML 속성(Attributes)
+1) HTML Element에 추가 정보를 제공
+2) name = "value" 형태로 사용
+
+> [HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
+
+제목 태그(Tag)
+Heading -> hn : h1~h6
+
+HTML 단락(Paragraphs)
+> [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)<br/>
+
+단락 태그
+Paragraph -> p
+
+수평선
+Horizontal Rules -> hr <!--hr태그는 Empty tag(빈 태그) 이다.-->
+
+
+> [HTML Links](https://www.w3schools.com/html/html_links.asp)
+
+하이퍼링크
+Anchor -> a
+href : 링크로 연결된 목적지 주소
+ 1) 외부링크
+  - 링크 주소 입력 시 http(https) 키워드를 반드시 사용
+ 2) 북마크(내부링크)
+  - 목적지에 id attribute를 사용해서 이름을 정해줌
+  - href attribute에 #를 사용해서 목적지 이름을 넣어줌 <!--ex : <a href = "#id">-->
+
+> [HTML Table](https://www.w3schools.com/html/html_tables.asp)
+테이블
+- [Table Generator](https://www.tablesgenerator.com)<!--테이블 작성 시 편리한 툴인 웹앱 사이트 -->
+
+[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+
+1) 순서없는 목록(ul)<!--unordered Lists-->
+2) 순서있는 목록(ol)<!--ordered Lists-->
+3) 설명 목록 <!--타이틀과 설명이 한쌍으로 묶이는 목록-->
+
+<!--ul, ol 목록에서 중첩(nested) 형태로 사용할 때 포함관계를 주의하자 ex : 1. 1.1 2.와 같은 케이스에서
+1의 li태그 안에 ol태그 li태그의 1.1내용이 포함됨-->
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## HTML작성 유의점
+- 태그 작성시 소문자가 원칙으로 한다
+- HTML의 속성(attribute) / CSS의 속성(property)라고 함.
+- HTML의 작성에 있어서 HTML 속성은 항상 시작태그에 지정됨.
+- <!--<a>-->는 하이퍼링크를 정의함. href 속성은 해당 페이지의 URL를 링크로 지정함.
+- <a href = "https://www.naver.com" target = "_blank">네이버</a>
+<!--네이버나 구글 같은 거대 회사의 사이트의 경우 회사 방침에 따라 이너 프래임 상에 링크로 홈페이지 화면을 요청하는 경우 화면요청을 거절하는 경우가 있음
+그렇기 때문에 위와 같이 a태그에서 target으로 새창으로 불러와서 구현을 하게 되면 정상적으로 불러올수 있음을 알수 있다.-->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
