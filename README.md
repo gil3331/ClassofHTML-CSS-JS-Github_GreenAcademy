@@ -47,6 +47,14 @@ HTML 속성(Attributes)
 1) HTML Element에 추가 정보를 제공
 2) name = "value" 형태로 사용
 
+HTML 웹 문서에서 표시할 수 있는 콘텐츠 종류
+1) 텍스트
+2) 이미지(사진,로고,그림의 형태 등등)
+3) 멀티미디어 콘텐츠(비디오,오디오)
+
+
+### 텍스트 콘텐츠 요소(Elements)
+
 > [HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
 
 제목 태그(Tag)
