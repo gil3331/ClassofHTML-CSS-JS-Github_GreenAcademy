@@ -132,11 +132,15 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1 (&=ampersand)
 ### HTML5 Content Model
 : Sectioning Contents(구획을 나눠주는 태그)<br/>
   => Semantic Element
+> [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+1) 특정 의미를 부여해준 Container 요소
+2) 레이아웃 구성할 때 각각의 영역을 구분하기 위해서 사용
 
 
 ### 화면구성도를 위한 온라인 포토샵 웹앱
-[Photopea.com](https://www.photopea.com/)
-
+> [Photopea.com](https://www.photopea.com/)<br/>
+> [Free template site](https://freebiesbug.com/psd-freebies/piroll-design-template-agencypersonal-portfolio/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
