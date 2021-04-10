@@ -1,6 +1,10 @@
 # 그린컴퓨터아카데미 웹개발(HTML,CSS,Java Script,GitHub)
 #### 수업일자 : 3/20 ~ 5/2(매주토요일,마지막주는 일요일 포함)
 
+##### 수업정리(선생님 내용)
+> [github_저장소](https://github.com/ministori-yonsei/green_weekend_03)<br/>
+> [codepen_저장소](https://codepen.io/your-work/)
+
 ## GitHub 기초 개념
 
 > GitHub 용어
@@ -155,19 +159,61 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1 (&=ampersand)
 그렇기 때문에 위와 같이 a태그에서 target으로 새창으로 불러와서 구현을 하게 되면 정상적으로 불러올수 있음을 알수 있다.-->
 - 비단 HTML 뿐만 아니라 모든 개발 언어에서 들여쓰기(tab키)는 매우 중요함. 왜냐하면 상용화단계에 들어간 개발 된 코드들은 거의 몇천줄에서 몇만줄까지도 존재하기 때문에 가독성을 위해서 매우 중요한 부분이고, 가독성이 좋을 수록 해당 어플리케이션의 유지보수 효율 또한 올라간다.
 - 사이트를 구성함에 있어서 콘텐츠의 의미에 따라 중요도를 지정하고, 그 중요도에 걸맞는 태그를 걸어주는게 매우 중요함.
-- HTML 태그를 사용함에 있어서 혹 태그의 호환성에 대해 확인하고 싶다면, <a href = "https://caniuse.com/" target = "_blank">caniuse</a>에서 확인하도록 하자
+- HTML 태그를 사용함에 있어서 혹 태그의 호환성에 대해 확인하고 싶다면, <a href = "https://caniuse.com/" target = "_blank">caniuse</a>에서 확인하도록 하자(하위호환성을 위해선 기준을 인터넷 익스플로러 11을 기준으로 삼으면 좋다.)
+- HTML5/5.1, CSS3, ES2015이후 버전들의 기술은 항상 지원여부 체크가 필요함
+- 브라우저 지원 여부
+  - 상위 호환성 : 새 버전 브라우저의 지원 여부
+  - 하위 호환성 : 구 버전 브라우저의 지원 여부
+- 일반적으로 브라우저 지원은 하위 호환성 체크가 중요함
+ 
+[HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
+
+- Non-semantic element(그룹핑 요소-semantic 요소로 구분이 불가능한 컨텐츠를 그룹핑 할 때 사용되는 태그들)
+  - div(division) : 자체 개행(Block type)
+  - span : 개행 없음(Inline type)
+ 
+### Block/Inline Element
+
+- block : 새 줄(개행)에서 표시
+- inline : 할 줄에 나란히 표시
+- 포함관계
+  - block : block, inline, contents(text) 모두 포함 가능
+  - inline : inline, contents(text)만 포함 가능
+  - 예외 : inline 요소인 a 태그는 모두 포함 가능
 
 
+### 폼 요소
 
-
-
-
-
-
-
-
-
-
+- 사용자 입력을 받을 수 있는 폼 요소
+> [HTML Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
+ 
+> 텍스트 입력을 받을 수 있는 폼 요소
+```
+<input type="text"/> : 한 줄 입력
+<textarea></textarea> : 여러 줄 입력
+<input type="password"/> : 한 줄 입력, 입력 내용이 기호로 표시됨
+```
+> 파일 업로드 폼 요소
+```
+<input type="file"/>
+```
+> 선택 폼 요소
+```
+<input type="radio"/>
+<input type="checkbox"/>
+<select>
+  <option></option> : 목록 항목(n개)
+</select>
+```
+> 실행하는 폼 요소
+```
+<input type="button"/>
+<input type="reset"/>
+<input type="submit"/>
+<button type="button"></button>
+<button type="reset"></button>
+<button type="submit"></button>
+```
 
 
 
