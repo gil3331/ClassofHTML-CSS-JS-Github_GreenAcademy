@@ -215,6 +215,37 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1 (&=ampersand)
 <button type="submit"></button>
 ```
 
+### HTML Element의 이름 붙이기
+> id와 class를 사용
+```
+id 사용법(HTML)
+ex) <p id="paragraph1">단락</p>
+
+class 사용법(HTML)
+ex) <p class="paragraph2"></p>
+```
+> id와 class의 차이점
+- id는 하나의 HTML 파일(문서)에서 중복 사용될 수 없음(backend에서 주로 씀)
+- class는 하나의 HTML 파일(문서)에서 중복 사용할 수 있음(CSS styling, Java Script 기능을 동시 적용할 수 있음-frontend에서 주로 씀)
+
+> 표기법(여러 단어가 사용될 경우 단어를 구분)
+- gnb-list-list : kebab case
+- gnb_list_item : snake case
+- gnbListItem : camel case
+- GnbListItem : pascal case
+
+- 파일, 폴더 이름 작성시 : snake case
+- id, class 작성시 : kebab case
+- javaScript 변수, 함수 작성시 : camel case
+
+### 박스 가로배치
+> float
+ 
+- left, right 속성 값으로 가로 배치
+- 부모요소를 기준으로 왼쪽 배치, 오른쪽 배치가 됨.
+- right값을 사용하게 되면, 배치만 오른쪽으로 붙는게 아니라, 박스순서도 반대로 배치가 됨.
+- 부모요소와 자식요소가 있다고 전제했을 때, 해당 요소가 높이와 넓이가 정해져 있지 않다면, 높이는 자식요소에 기반하게 되고, 넓이는 부모요소에 기반하게 됨.
+- 
 
 
 
