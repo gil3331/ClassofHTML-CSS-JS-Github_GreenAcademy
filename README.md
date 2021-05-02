@@ -246,6 +246,8 @@ ex) <p class="paragraph2"></p>
 - right값을 사용하게 되면, 배치만 오른쪽으로 붙는게 아니라, 박스순서도 반대로 배치가 됨.
 - 부모요소와 자식요소가 있다고 전제했을 때, 해당 요소가 높이와 넓이가 정해져 있지 않다면, 높이는 자식요소에 기반하게 되고, 넓이는 부모요소에 기반하게 됨.
 
+> flex
+
 ### 반응형 웹(Responsive Web)
 > OSMU(One Source Multi Use) - One Source => HTML
 > 적응형 웹(Adaptive Web) - OSMU가 적용되지 않음
