@@ -254,3 +254,13 @@ ex) <p class="paragraph2"></p>
 
 ### 무료 호스팅 사이트
 [dothome](https://www.dothome.co.kr/index.php)
+
+### 일기예보 오픈 API 사이트
+[openweathermap](https://openweathermap.org/)
+[openweathericon](https://openweathermap.org/weather-conditions)
+
+
+
+
+
+
