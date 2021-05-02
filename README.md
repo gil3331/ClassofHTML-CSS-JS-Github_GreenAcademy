@@ -256,7 +256,7 @@ ex) <p class="paragraph2"></p>
 [dothome](https://www.dothome.co.kr/index.php)
 
 ### 일기예보 오픈 API 사이트
-[openweathermap](https://openweathermap.org/)
+[openweathermap](https://openweathermap.org/)<br/>
 [openweathericon](https://openweathermap.org/weather-conditions)
 
 
