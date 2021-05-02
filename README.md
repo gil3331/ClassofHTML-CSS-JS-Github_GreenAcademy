@@ -250,3 +250,5 @@ ex) <p class="paragraph2"></p>
 > OSMU(One Source Multi Use) - One Source => HTML
 > 적응형 웹(Adaptive Web) - OSMU가 적용되지 않음
 
+### 무료 호스팅 사이트
+[dothome](https://www.dothome.co.kr/index.php)
